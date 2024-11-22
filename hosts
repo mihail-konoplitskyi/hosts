@@ -4674,14 +4674,6 @@ ff02::3 ip6-allhosts
 # [amobee.com]
 0.0.0.0 amobee.com
 
-# [amplitude.com]
-0.0.0.0 api.amplitude.com
-0.0.0.0 api2.amplitude.com
-0.0.0.0 cdn.amplitude.com
-0.0.0.0 info.amplitude.com
-0.0.0.0 regionconfig.amplitude.com
-0.0.0.0 static.amplitude.com
-
 # [amung.us]
 0.0.0.0 amung.us
 0.0.0.0 whos.amung.us
